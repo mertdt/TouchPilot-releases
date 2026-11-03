@@ -19,4 +19,6 @@ Sonra **Gizlilik ve Güvenlik › Erişilebilirlik**'te TouchPilot'u aç: F tuş
 
 ## Güncellemeler
 
-TouchPilot yeni sürümleri günde bir kez kendisi denetler ve varsa menü çubuğundaki simgesinin menüsünde gösterir. Elle denetlemek için: **menü çubuğu simgesi › Güncellemeleri denetle**. Yeni DMG'deki uygulamayı eskisinin yerine koyman yeterli; ayarların korunur.
+TouchPilot yeni sürümleri günde bir kez kendisi denetler. Yeni sürüm varsa menü çubuğu simgesinin menüsünde **Yükle ve yeniden başlat** çıkar: TouchPilot yeni sürümü indirir, imzasını doğrular, kendini günceller ve yeniden başlar; ayarların ve izinlerin korunur. Elle denetlemek için: **menü çubuğu simgesi › Güncellemeleri denetle** ya da **Ayarlar › Genel**.
+
+Tek tıkla güncelleme 0.3.0 ile geldi. Daha eski bir sürümden geçiyorsan 0.3.0'ı bir kez elle kur: DMG'deki uygulamayı eskisinin yerine koyman yeterli.
